@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1460596700 source:d:\documents\fiu courses\spring 2015\eel 2880-u01 (software techniques) - prof. herman watson\codeblocks projects\homework programs\misc\c++\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,184 @@
+Block 0
+-------
+Name: Marlin Plumbing
+ 
+Street: 20145 Northeast 15th Place
+ 
+City: Miami
+ 
+State: FL
+ 
+ZIP Code: 33179
+ 
+Home #: 305.652.3031
+ 
+Cell #: 305.665.8813
+ 
+Rating: 5 
+
+Contact: Jerry
+ 
+
+
+
+Block 1
+-------
+Name: Florida Jetclean
+ 
+Street: 18910 North 5th Avenue
+ 
+City: Miami
+ 
+State: FL
+ 
+ZIP Code: 33179
+ 
+Home #: 800.226.8013
+ 
+Cell #: 305.884.2378
+ 
+Rating: 3 
+
+Contact: Harry
+ 
+
+
+
+Block 2
+-------
+Name: Water Damage Services
+ 
+Street: 1076 NE 196 St
+ 
+City: Miami
+ 
+State: FL
+ 
+ZIP Code: 33179
+ 
+Home #: 866.651.4297
+ 
+Cell #: 786.555.1234
+ 
+Rating: 5 
+
+Contact: James
+ 
+
+
+
+Block 3
+-------
+Name: Freddies Plumbing Corporation
+ 
+Street: 1301 Northease 199th Street
+ 
+City: Miami
+ 
+State: FL
+ 
+ZIP Code: 33179
+ 
+Home #: 305.651.2983
+ 
+Cell #: 786.290.6145
+ 
+Rating: 7 
+
+Contact: Freddy
+ 
+
+
+
+Block 4
+-------
+Name: Lawrence Plumbing Supply
+ 
+Street: 20000 Northeast 15th Court
+ 
+City: Miami
+ 
+State: FL
+ 
+ZIP Code: 33179
+ 
+Home #: 350.652.4191
+ 
+Cell #: 305.914.6521
+ 
+Rating: 4 
+
+Contact: Larry
+ 
+
+
+
+Block 5
+-------
+Name: A-Z Statewide Plumbing
+ 
+Street: 2215 Southwest 58th Terrace
+ 
+City: West Park
+ 
+State: FL
+ 
+ZIP Code: 33023
+ 
+Home #: 954.963.5800
+ 
+Cell #: 954.583.6497
+ 
+Rating: 2 
+
+Contact: Robert
+ 
+
+
+
+Block 6
+-------
+Name: Harry Raskin, Inc
+ 
+Street: 20362 Northeast 16th Place
+ 
+City: Miami
+ 
+State: FL
+ 
+ZIP Code: 33179
+ 
+Home #: 305.653.2270
+ 
+Cell #: 305.653.2270
+ 
+Rating: 8 
+
+Contact: James
+ 
+
+
+
+Block 7
+-------
+Name: Aarco Leak Detection
+ 
+Street: 1048 Northeast 167th Street
+ 
+City: North Miami Beach
+ 
+State: FL
+ 
+ZIP Code: 33162
+ 
+Home #: 305.947.7283
+ 
+Cell #: 786.728.9874
+ 
+Rating: 4 
+
+Contact: Steven
+ 
+
+
+

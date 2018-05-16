@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1454472832 source:d:\documents\fiu courses\spring 2015\eel 2880-u01 (software techniques) - prof. herman watson\codeblocks projects\homework programs\hw #3.c
+	<stdio.h>
+	<stdlib.h>
+
+1455075653 source:d:\documents\fiu courses\spring 2015\eel 2880-u01 (software techniques) - prof. herman watson\codeblocks projects\homework programs\hw #4.c
+	<stdio.h>
+
+1456891326 source:d:\documents\fiu courses\spring 2015\eel 2880-u01 (software techniques) - prof. herman watson\codeblocks projects\homework programs\hw #5 (tiresandapples).c
+	<stdio.h>
+	<string.h>
+
+1457769944 source:d:\documents\fiu courses\spring 2015\eel 2880-u01 (software techniques) - prof. herman watson\codeblocks projects\homework programs\hw #6 (deckshuffle).c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1460181989 source:d:\documents\fiu courses\spring 2015\eel 2880-u01 (software techniques) - prof. herman watson\codeblocks projects\homework programs\hw #7 (playcards).c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1459284213 source:d:\documents\fiu courses\spring 2015\eel 2880-u01 (software techniques) - prof. herman watson\codeblocks projects\homework programs\hw #8 (structures).c
+	<stdio.h>
+	<stdlib.h>
+
+1457766680 source:d:\documents\fiu courses\spring 2015\eel 2880-u01 (software techniques) - prof. herman watson\codeblocks projects\homework programs\hw #4 (binary print).c
+	<stdio.h>
+
+1460251257 source:d:\documents\fiu courses\spring 2015\eel 2880-u01 (software techniques) - prof. herman watson\codeblocks projects\homework programs\hw #9 (file i-o).c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<ctype.h>
+
+1460593274 source:d:\documents\fiu courses\spring 2015\eel 2880-u01 (software techniques) - prof. herman watson\codeblocks projects\homework programs\hw #09 (file i-o).c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<ctype.h>
+
+1461116759 source:d:\documents\fiu courses\spring 2015\eel 2880-u01 (software techniques) - prof. herman watson\codeblocks projects\homework programs\hw #10 (plumbing database).c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
