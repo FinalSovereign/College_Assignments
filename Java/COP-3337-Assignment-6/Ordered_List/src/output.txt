@@ -1,0 +1,42 @@
+INSERT 5
+5
+INSERT 20
+5, 20
+INSERT 12
+5, 12, 20
+INSERT 27
+5, 12, 20, 27
+DELETE 12
+5, 20, 27
+INSERT 37
+5, 20, 27, 37
+DELETE 99
+Cannot delete what is not there - 5, 20, 27, 37
+INSERT 73
+5, 20, 27, 37, 73
+DELETE 5
+20, 27, 37, 73
+DELETE 73
+20, 27, 37
+INSERT 48
+20, 27, 37, 48
+REVERSE
+48, 37, 27, 20
+INSERT 99
+99, 48, 37, 27, 20
+INSERT 23
+99, 48, 37, 27, 23, 20
+INSERT 11
+99, 48, 37, 27, 23, 20, 11
+DELETE 99
+48, 37, 27, 23, 20, 11
+DELETE 11
+48, 37, 27, 23, 20
+REVERSE
+20, 23, 27, 37, 48
+CLEAR
+This list is empty
+REVERSE
+This list is empty
+DELETE 37
+Cannot delete what is not there - This list is empty

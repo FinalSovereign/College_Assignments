@@ -1,0 +1,16 @@
+run:
+Sphere:            Center at P(2, -7, 5)        Radius: 15      S. Area: 2827.433                  Volume: 14137.167
+Parallelepiped:    Center at P(7, 3, 9)         Length: 37        Width: 9        Height: 12      S. Area: 1770.000                  Volume: 3996.000
+Cylinder:          Center at P(3, -5, 5)        Radius: 13       Height: 10      S. Area: 1878.672                  Volume: 5309.292
+Cone:              Center at P(-5, 3, -1)       Radius: 14       Height: 11      S. Area: 1398.835                  Volume: 2257.758
+
+Cone:              Volume: 2257.758
+Parallelepiped:    Volume: 3996.000
+Cylinder:          Volume: 5309.292
+Sphere:            Volume: 14137.167
+
+Parallelepiped:    Distance from the Origin: 11.790
+Sphere:            Distance from the Origin: 8.832
+Cylinder:          Distance from the Origin: 7.681
+Cone:              Distance from the Origin: 5.916
+BUILD SUCCESSFUL (total time: 0 seconds)

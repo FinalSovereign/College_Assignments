@@ -1,0 +1,31 @@
+Car JAV001 has arrived and parks in lot 10.
+Car JAV002 has arrived and parks in lot 9.
+Car JAV003 has arrived and parks in lot 8.
+Car JAV004 has arrived and parks in lot 7.
+Car JAV005 has arrived and parks in lot 6.
+Car JAV001 has departed. It was moved 0 time(s).
+Car JAV004 has departed. It was moved 0 time(s).
+Car JAV006 has arrived and parks in lot 7.
+Car JAV007 has arrived and parks in lot 6.
+Car JAV008 has arrived and parks in lot 5.
+Car JAV009 has arrived and parks in lot 4.
+Car JAV010 has arrived and parks in lot 3.
+Car JAV011 has arrived and parks in lot 2.
+Car JAV012 has arrived and parks in lot 1.
+The Bashemin Parking Garage is full and car JAV013 is not allowed in.
+The Bashemin Parking Garage is full and car JAV014 is not allowed in.
+Car JAV006 has departed. It was moved 0 time(s).
+Car JAV014 is not parked in the garage.
+Car JAV013 is not parked in the garage.
+Car JAV005 has departed. It was moved 1 time(s).
+Car JAV015 has arrived and parks in lot 2.
+Car JAV010 has departed. It was moved 0 time(s).
+Car JAV002 has departed. It was moved 4 time(s).
+Car JAV015 has departed. It was moved 0 time(s).
+Car JAV013 is not parked in the garage.
+Car JAV009 has departed. It was moved 2 time(s).
+Car JAV003 has departed. It was moved 6 time(s).
+Car JAV008 has departed. It was moved 3 time(s).
+Car JAV007 has departed. It was moved 4 time(s).
+Car JAV012 has departed. It was moved 1 time(s).
+Car JAV011 has departed. It was moved 2 time(s).
